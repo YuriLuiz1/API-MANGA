@@ -39,7 +39,7 @@ npm start
 
 ## 🔧 Exemplo de uso
 ```json
-POST /api/mangas
+POST /localhost/mangas
 {
   "titulo": "One Piece",
   "autor": "Eiichiro Oda",
