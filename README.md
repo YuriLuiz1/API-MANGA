@@ -137,7 +137,7 @@ Este projeto foi desenvolvido para praticar:
 **Yuri Luiz**
 
 - GitHub: [@YuriLuiz1](https://github.com/YuriLuiz1)
-- LinkedIn: [Adicione seu LinkedIn aqui]
+- LinkedIn: (https://www.linkedin.com/in/yuri-luiz/)
 
 ## 📄 Licença
 
